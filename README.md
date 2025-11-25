@@ -39,3 +39,9 @@ DAX: Creación de medidas para los KPIs principales (e.g., Total de Crímenes, T
 
 Visualización: Diseño de las cuatro páginas de análisis detalladas a continuación.
 
+Contacto
+Desarrollado por: Fernando Mendoza Marquez
+
+Si tienes preguntas o sugerencias de mejora, puedes contactarme:
+
+mendozamarquezfernando225@gmail.com
